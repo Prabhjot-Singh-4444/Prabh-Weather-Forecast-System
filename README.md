@@ -4,8 +4,6 @@ Welcome to the **Prabh Weather Forecast System**, a sleek, full-stack weather ap
 - 🌡️ Current temperature
 - 💧 Humidity
 - ☔ Precipitation
-- ⏳ Hourly forecasts
-- 📅 10-day forecasts
 
 ## 🚀 How It All Started
 
