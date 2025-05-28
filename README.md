@@ -169,10 +169,4 @@ You should see your deployed weather app running live!
 - 🚀 Fully deployable in under 20 minutes
 
 
----
-
-## 🙌 Final Words
-
-From zero to a fully working weather app deployed on AWS — you just built and deployed a real-world system. Keep experimenting and building more cloud apps!
-
-> Built with 💙 by Prabhjot Singh
+> Built 💙 by Prabhjot Singh
