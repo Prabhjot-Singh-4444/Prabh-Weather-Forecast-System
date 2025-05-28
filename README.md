@@ -1,4 +1,4 @@
-# 🌦️ Prabh Weather Forecast System
+# 🌦️ Prabh Weather Forecast System/A Node Js Application on AWS EC2
 
 Welcome to the **Prabh Weather Forecast System**, a sleek, full-stack weather application built using React. It allows users to search weather conditions of any city worldwide including:
 - 🌡️ Current temperature
